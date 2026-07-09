@@ -10,7 +10,7 @@ const Layout = (props: Props) => {
   return (
     <div className="layout">
       <Head>
-        <title>E-commerce</title>
+        <title>2026E-commerce</title>
       </Head>
       <header>
         <Navbar />
